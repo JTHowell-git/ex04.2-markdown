@@ -36,7 +36,7 @@ See the example image about how the result should look like.
 President Trump today announced he will be issuing an Executive Order demanding 
 that a question about citizenship status be added to the upcoming 2020 U.S. Census 
 form. The U.S. Supreme Court recently deemed the question **unconstitutional**
-yet _Trump Baby_ insists on getting his way. 
+yet Trump Baby _insists_ on getting his way. 
 
 >Mr. Trump said on Twitter that he would hold an afternoon news conference on the issues of “census and citizenship” days after his attorney general, William P. Barr, suggested he thought there could be a legal path to placing the citizenship question on the census after the Supreme Court blocked its inclusion last month.>
 
@@ -45,7 +45,7 @@ yet _Trump Baby_ insists on getting his way.
 For more coverage of this developing story, visit:
 * [NYT](https://www.nytimes.com/2019/07/11/us/politics/census-executive-action.html?action=click&module=Top%20Stories&pgtype=Homepage)
 * [Washington Post](https://www.washingtonpost.com/politics/trump-to-hold-news-conference-on-census-as-he-mulls-executive-action-to-add-a-citizenship-question/2019/07/11/c0eb7cb6-a3c8-11e9-b8c8-75dae2607e60_story.html?utm_term=.109a590f3ea1)
-- [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-expected-order-citizenship-question-added-census-n1028656)
+* [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-expected-order-citizenship-question-added-census-n1028656)
 
 
 
